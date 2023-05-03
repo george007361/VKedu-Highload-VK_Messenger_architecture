@@ -1,4 +1,4 @@
-# VK Messenger
+# VK Messenger OLD 
 > Семестровое домашнее задание по курсу Highload. Технопарк ВК МГТУ им. Баумана, весна 2023. Илларионов Георгий WEB-31
 
 > [Методические указания](https://github.com/init/highload/blob/main/homework_architecture.md)
